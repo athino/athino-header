@@ -31,6 +31,7 @@ type Props = {
 const Frame = styled.div`
   background-color: black;
   min-height: 150vh;
+  padding-top: 20px;
 `
 
 const WidthRestrictedFrame = styled.div`
