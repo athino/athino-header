@@ -16,7 +16,7 @@ type Props = {
         <Header>
           <WidthRestrictedFrame>
             <Links>
-              <Link href="/"><Logo/></Link>
+              <Link href="https://www.athino.no"><Logo/></Link>
               <Link href="https://www.notifier.athino.no">Notifier</Link>
               <Link href="https://www.secrets.athino.no">Secrets</Link>
               <Link href="https://www.database-manager.athino.no">Database manager</Link>
