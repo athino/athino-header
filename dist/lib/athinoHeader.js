@@ -15,7 +15,7 @@ const AthinoHeader = (props) => {
         react_1.default.createElement(Header, null,
             react_1.default.createElement(WidthRestrictedFrame, null,
                 react_1.default.createElement(Links, null,
-                    react_1.default.createElement(link_1.default, { href: "/" },
+                    react_1.default.createElement(link_1.default, { href: "https://www.athino.no" },
                         react_1.default.createElement(Logo, null)),
                     react_1.default.createElement(link_1.default, { href: "https://www.notifier.athino.no" }, "Notifier"),
                     react_1.default.createElement(link_1.default, { href: "https://www.secrets.athino.no" }, "Secrets"),
