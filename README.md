@@ -1,1 +1,2 @@
-# athino-header
+# stack
+A component for escaping stacking context
