@@ -31,7 +31,6 @@ type Props = {
 const Frame = styled.div`
   background-color: black;
   min-height: 150vh;
-  padding-top: 20px;
 `
 
 const WidthRestrictedFrame = styled.div`
@@ -44,8 +43,6 @@ const WidthRestrictedFrame = styled.div`
 `
 
 const Header = styled.div`
-  position: sticky;
-  top: 0;
   border-bottom: 1px solid gray;
   background-color: rgb(18, 18, 18);
   border-bottom-color: rgb(33, 33, 33);
