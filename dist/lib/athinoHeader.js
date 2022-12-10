@@ -26,7 +26,6 @@ exports.AthinoHeader = AthinoHeader;
 const Frame = styled_components_1.default.div `
   background-color: black;
   min-height: 150vh;
-  padding-top: 20px;
 `;
 const WidthRestrictedFrame = styled_components_1.default.div `
   height: 100%;
@@ -37,8 +36,6 @@ const WidthRestrictedFrame = styled_components_1.default.div `
   max-width: 1200px;
 `;
 const Header = styled_components_1.default.div `
-  position: sticky;
-  top: 0;
   border-bottom: 1px solid gray;
   background-color: rgb(18, 18, 18);
   border-bottom-color: rgb(33, 33, 33);
